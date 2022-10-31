@@ -134,7 +134,11 @@ header .navbar ul{
     padding:1rem 3rem;
 }
 
-
+.firstline{
+    font-family: Josefin;
+    letter-spacing: 3px;
+    
+}
 header .navbar ul li a{
     font-family:Josefin ;
     display: block;
